@@ -1,0 +1,12 @@
+# Node dependencies (reinstall with `npm install docx`)
+node_modules/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc

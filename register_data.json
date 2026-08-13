@@ -1,0 +1,953 @@
+{
+  "risk_register": [
+    {
+      "risk_id": 29,
+      "category": "External Fraud",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 5,
+      "inherent_impact": 5,
+      "residual_likelihood": 5,
+      "residual_impact": 5,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2023-11-21"
+    },
+    {
+      "risk_id": 31,
+      "category": "Internal Fraud",
+      "unit_name": "Consumer Lending",
+      "inherent_likelihood": 5,
+      "inherent_impact": 4,
+      "residual_likelihood": 5,
+      "residual_impact": 4,
+      "risk_owner": "Daniel Wagner",
+      "date_identified": "2024-02-26"
+    },
+    {
+      "risk_id": 18,
+      "category": "Internal Fraud",
+      "unit_name": "Portfolio Administration",
+      "inherent_likelihood": 4,
+      "inherent_impact": 5,
+      "residual_likelihood": 4,
+      "residual_impact": 4,
+      "risk_owner": "Jamie Arnold",
+      "date_identified": "2023-08-17"
+    },
+    {
+      "risk_id": 1,
+      "category": "Internal Fraud",
+      "unit_name": "Consumer Lending",
+      "inherent_likelihood": 4,
+      "inherent_impact": 3,
+      "residual_likelihood": 4,
+      "residual_impact": 3,
+      "risk_owner": "Noah Rhodes",
+      "date_identified": "2025-09-06"
+    },
+    {
+      "risk_id": 3,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Retail Branch Network",
+      "inherent_likelihood": 3,
+      "inherent_impact": 5,
+      "residual_likelihood": 3,
+      "residual_impact": 4,
+      "risk_owner": "Cristian Santos",
+      "date_identified": "2025-04-08"
+    },
+    {
+      "risk_id": 13,
+      "category": "External Fraud",
+      "unit_name": "Portfolio Administration",
+      "inherent_likelihood": 5,
+      "inherent_impact": 5,
+      "residual_likelihood": 3,
+      "residual_impact": 4,
+      "risk_owner": "Cristian Santos",
+      "date_identified": "2024-01-07"
+    },
+    {
+      "risk_id": 30,
+      "category": "Employment Practices & Workplace Safety",
+      "unit_name": "Payments Processing",
+      "inherent_likelihood": 5,
+      "inherent_impact": 5,
+      "residual_likelihood": 4,
+      "residual_impact": 3,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2023-10-08"
+    },
+    {
+      "risk_id": 35,
+      "category": "Internal Fraud",
+      "unit_name": "Payments Processing",
+      "inherent_likelihood": 3,
+      "inherent_impact": 5,
+      "residual_likelihood": 3,
+      "residual_impact": 4,
+      "risk_owner": "Gina Moore",
+      "date_identified": "2024-05-11"
+    },
+    {
+      "risk_id": 2,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Consumer Lending",
+      "inherent_likelihood": 5,
+      "inherent_impact": 2,
+      "residual_likelihood": 5,
+      "residual_impact": 2,
+      "risk_owner": "Daniel Wagner",
+      "date_identified": "2024-03-24"
+    },
+    {
+      "risk_id": 15,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Corporate Lending",
+      "inherent_likelihood": 5,
+      "inherent_impact": 2,
+      "residual_likelihood": 5,
+      "residual_impact": 2,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2024-01-17"
+    },
+    {
+      "risk_id": 25,
+      "category": "Damage to Physical Assets",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 5,
+      "inherent_impact": 2,
+      "residual_likelihood": 5,
+      "residual_impact": 2,
+      "risk_owner": "Connie Lawrence",
+      "date_identified": "2023-10-18"
+    },
+    {
+      "risk_id": 36,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 5,
+      "inherent_impact": 3,
+      "residual_likelihood": 5,
+      "residual_impact": 2,
+      "risk_owner": "Allison Hill",
+      "date_identified": "2024-03-23"
+    },
+    {
+      "risk_id": 26,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Retail Branch Network",
+      "inherent_likelihood": 3,
+      "inherent_impact": 3,
+      "residual_likelihood": 3,
+      "residual_impact": 3,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2025-08-07"
+    },
+    {
+      "risk_id": 28,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 5,
+      "inherent_impact": 3,
+      "residual_likelihood": 3,
+      "residual_impact": 3,
+      "risk_owner": "Ryan Munoz",
+      "date_identified": "2025-08-23"
+    },
+    {
+      "risk_id": 4,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Retail Branch Network",
+      "inherent_likelihood": 3,
+      "inherent_impact": 5,
+      "residual_likelihood": 2,
+      "residual_impact": 4,
+      "risk_owner": "Daniel Wagner",
+      "date_identified": "2024-01-20"
+    },
+    {
+      "risk_id": 5,
+      "category": "Internal Fraud",
+      "unit_name": "Portfolio Administration",
+      "inherent_likelihood": 2,
+      "inherent_impact": 5,
+      "residual_likelihood": 2,
+      "residual_impact": 4,
+      "risk_owner": "Connie Lawrence",
+      "date_identified": "2025-12-28"
+    },
+    {
+      "risk_id": 8,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Trade Finance",
+      "inherent_likelihood": 4,
+      "inherent_impact": 2,
+      "residual_likelihood": 4,
+      "residual_impact": 2,
+      "risk_owner": "Cristian Santos",
+      "date_identified": "2024-09-06"
+    },
+    {
+      "risk_id": 14,
+      "category": "External Fraud",
+      "unit_name": "Corporate Lending",
+      "inherent_likelihood": 4,
+      "inherent_impact": 5,
+      "residual_likelihood": 2,
+      "residual_impact": 4,
+      "risk_owner": "Daniel Wagner",
+      "date_identified": "2024-08-18"
+    },
+    {
+      "risk_id": 32,
+      "category": "External Fraud",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 5,
+      "inherent_impact": 3,
+      "residual_likelihood": 4,
+      "residual_impact": 2,
+      "risk_owner": "Noah Rhodes",
+      "date_identified": "2024-04-25"
+    },
+    {
+      "risk_id": 40,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Consumer Lending",
+      "inherent_likelihood": 4,
+      "inherent_impact": 4,
+      "residual_likelihood": 4,
+      "residual_impact": 2,
+      "risk_owner": "Connie Lawrence",
+      "date_identified": "2025-08-16"
+    },
+    {
+      "risk_id": 7,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 4,
+      "inherent_impact": 3,
+      "residual_likelihood": 2,
+      "residual_impact": 3,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2023-09-29"
+    },
+    {
+      "risk_id": 9,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 4,
+      "inherent_impact": 3,
+      "residual_likelihood": 3,
+      "residual_impact": 2,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2024-03-15"
+    },
+    {
+      "risk_id": 6,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 2,
+      "inherent_impact": 5,
+      "residual_likelihood": 1,
+      "residual_impact": 5,
+      "risk_owner": "Noah Rhodes",
+      "date_identified": "2024-09-04"
+    },
+    {
+      "risk_id": 11,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 4,
+      "inherent_impact": 3,
+      "residual_likelihood": 2,
+      "residual_impact": 2,
+      "risk_owner": "Allison Hill",
+      "date_identified": "2025-12-24"
+    },
+    {
+      "risk_id": 16,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Corporate Lending",
+      "inherent_likelihood": 5,
+      "inherent_impact": 2,
+      "residual_likelihood": 4,
+      "residual_impact": 1,
+      "risk_owner": "Gina Moore",
+      "date_identified": "2025-04-15"
+    },
+    {
+      "risk_id": 23,
+      "category": "External Fraud",
+      "unit_name": "Corporate Lending",
+      "inherent_likelihood": 5,
+      "inherent_impact": 3,
+      "residual_likelihood": 4,
+      "residual_impact": 1,
+      "risk_owner": "Ryan Munoz",
+      "date_identified": "2026-01-23"
+    },
+    {
+      "risk_id": 24,
+      "category": "External Fraud",
+      "unit_name": "Payments Processing",
+      "inherent_likelihood": 3,
+      "inherent_impact": 4,
+      "residual_likelihood": 2,
+      "residual_impact": 2,
+      "risk_owner": "Connie Lawrence",
+      "date_identified": "2025-06-09"
+    },
+    {
+      "risk_id": 34,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Consumer Lending",
+      "inherent_likelihood": 3,
+      "inherent_impact": 3,
+      "residual_likelihood": 2,
+      "residual_impact": 2,
+      "risk_owner": "Daniel Wagner",
+      "date_identified": "2024-12-18"
+    },
+    {
+      "risk_id": 37,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "Retail Branch Network",
+      "inherent_likelihood": 4,
+      "inherent_impact": 2,
+      "residual_likelihood": 4,
+      "residual_impact": 1,
+      "risk_owner": "Gabrielle Davis",
+      "date_identified": "2024-12-14"
+    },
+    {
+      "risk_id": 12,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Trade Finance",
+      "inherent_likelihood": 2,
+      "inherent_impact": 4,
+      "residual_likelihood": 1,
+      "residual_impact": 3,
+      "risk_owner": "Daniel Wagner",
+      "date_identified": "2023-10-20"
+    },
+    {
+      "risk_id": 20,
+      "category": "External Fraud",
+      "unit_name": "Trade Finance",
+      "inherent_likelihood": 4,
+      "inherent_impact": 3,
+      "residual_likelihood": 2,
+      "residual_impact": 1,
+      "risk_owner": "Ryan Munoz",
+      "date_identified": "2023-08-14"
+    },
+    {
+      "risk_id": 27,
+      "category": "External Fraud",
+      "unit_name": "Retail Branch Network",
+      "inherent_likelihood": 2,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 2,
+      "risk_owner": "Daniel Wagner",
+      "date_identified": "2025-01-21"
+    },
+    {
+      "risk_id": 38,
+      "category": "Internal Fraud",
+      "unit_name": "Corporate Lending",
+      "inherent_likelihood": 2,
+      "inherent_impact": 3,
+      "residual_likelihood": 2,
+      "residual_impact": 1,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2023-10-22"
+    },
+    {
+      "risk_id": 10,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 2,
+      "inherent_impact": 3,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "risk_owner": "Angie Henderson",
+      "date_identified": "2024-04-20"
+    },
+    {
+      "risk_id": 17,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 2,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "risk_owner": "Cristian Santos",
+      "date_identified": "2025-09-20"
+    },
+    {
+      "risk_id": 19,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 3,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "risk_owner": "Monica Herrera",
+      "date_identified": "2025-12-22"
+    },
+    {
+      "risk_id": 21,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Portfolio Administration",
+      "inherent_likelihood": 2,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "risk_owner": "Allison Hill",
+      "date_identified": "2024-04-15"
+    },
+    {
+      "risk_id": 22,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Trade Finance",
+      "inherent_likelihood": 2,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "risk_owner": "Noah Rhodes",
+      "date_identified": "2025-11-26"
+    },
+    {
+      "risk_id": 33,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 2,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "risk_owner": "Allison Hill",
+      "date_identified": "2025-12-17"
+    },
+    {
+      "risk_id": 39,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Trade Finance",
+      "inherent_likelihood": 2,
+      "inherent_impact": 3,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "risk_owner": "Ryan Munoz",
+      "date_identified": "2023-09-23"
+    }
+  ],
+  "top_costliest": [
+    {
+      "risk_id": 13,
+      "category": "External Fraud",
+      "unit_name": "Portfolio Administration",
+      "inherent_likelihood": 5,
+      "inherent_impact": 5,
+      "residual_likelihood": 3,
+      "residual_impact": 4,
+      "incident_count": 23,
+      "cumulative_loss": 474856.62
+    },
+    {
+      "risk_id": 18,
+      "category": "Internal Fraud",
+      "unit_name": "Portfolio Administration",
+      "inherent_likelihood": 4,
+      "inherent_impact": 5,
+      "residual_likelihood": 4,
+      "residual_impact": 4,
+      "incident_count": 14,
+      "cumulative_loss": 448733.4
+    },
+    {
+      "risk_id": 16,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Corporate Lending",
+      "inherent_likelihood": 5,
+      "inherent_impact": 2,
+      "residual_likelihood": 4,
+      "residual_impact": 1,
+      "incident_count": 3,
+      "cumulative_loss": 268417.45
+    },
+    {
+      "risk_id": 4,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Retail Branch Network",
+      "inherent_likelihood": 3,
+      "inherent_impact": 5,
+      "residual_likelihood": 2,
+      "residual_impact": 4,
+      "incident_count": 9,
+      "cumulative_loss": 267420.48
+    },
+    {
+      "risk_id": 17,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Private Client Advisory",
+      "inherent_likelihood": 2,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "incident_count": 15,
+      "cumulative_loss": 248568.97
+    },
+    {
+      "risk_id": 29,
+      "category": "External Fraud",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 5,
+      "inherent_impact": 5,
+      "residual_likelihood": 5,
+      "residual_impact": 5,
+      "incident_count": 8,
+      "cumulative_loss": 246550.83
+    },
+    {
+      "risk_id": 34,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Consumer Lending",
+      "inherent_likelihood": 3,
+      "inherent_impact": 3,
+      "residual_likelihood": 2,
+      "residual_impact": 2,
+      "incident_count": 10,
+      "cumulative_loss": 240359.41
+    },
+    {
+      "risk_id": 21,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Portfolio Administration",
+      "inherent_likelihood": 2,
+      "inherent_impact": 2,
+      "residual_likelihood": 1,
+      "residual_impact": 1,
+      "incident_count": 12,
+      "cumulative_loss": 200514.58
+    },
+    {
+      "risk_id": 25,
+      "category": "Damage to Physical Assets",
+      "unit_name": "IT Infrastructure",
+      "inherent_likelihood": 5,
+      "inherent_impact": 2,
+      "residual_likelihood": 5,
+      "residual_impact": 2,
+      "incident_count": 4,
+      "cumulative_loss": 179821.56
+    },
+    {
+      "risk_id": 26,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Retail Branch Network",
+      "inherent_likelihood": 3,
+      "inherent_impact": 3,
+      "residual_likelihood": 3,
+      "residual_impact": 3,
+      "incident_count": 7,
+      "cumulative_loss": 178398.57
+    }
+  ],
+  "overdue_controls": [
+    {
+      "risk_id": 27,
+      "category": "External Fraud",
+      "unit_name": "Retail Branch Network",
+      "control_id": 37,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-02-13",
+      "days_since_tested": 546
+    },
+    {
+      "risk_id": 38,
+      "category": "Internal Fraud",
+      "unit_name": "Corporate Lending",
+      "control_id": 54,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-02-17",
+      "days_since_tested": 542
+    },
+    {
+      "risk_id": 12,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Trade Finance",
+      "control_id": 16,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-02-21",
+      "days_since_tested": 538
+    },
+    {
+      "risk_id": 18,
+      "category": "Internal Fraud",
+      "unit_name": "Portfolio Administration",
+      "control_id": 23,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-03-09",
+      "days_since_tested": 522
+    },
+    {
+      "risk_id": 10,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "Private Client Advisory",
+      "control_id": 12,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-04-05",
+      "days_since_tested": 495
+    },
+    {
+      "risk_id": 23,
+      "category": "External Fraud",
+      "unit_name": "Corporate Lending",
+      "control_id": 30,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-04-24",
+      "days_since_tested": 476
+    },
+    {
+      "risk_id": 28,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "Private Client Advisory",
+      "control_id": 38,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-04-24",
+      "days_since_tested": 476
+    },
+    {
+      "risk_id": 2,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Consumer Lending",
+      "control_id": 2,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-04-27",
+      "days_since_tested": 473
+    },
+    {
+      "risk_id": 2,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Consumer Lending",
+      "control_id": 3,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-05-25",
+      "days_since_tested": 445
+    },
+    {
+      "risk_id": 20,
+      "category": "External Fraud",
+      "unit_name": "Trade Finance",
+      "control_id": 26,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-06-02",
+      "days_since_tested": 437
+    },
+    {
+      "risk_id": 24,
+      "category": "External Fraud",
+      "unit_name": "Payments Processing",
+      "control_id": 32,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-06-10",
+      "days_since_tested": 429
+    },
+    {
+      "risk_id": 29,
+      "category": "External Fraud",
+      "unit_name": "IT Infrastructure",
+      "control_id": 39,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-06-19",
+      "days_since_tested": 420
+    },
+    {
+      "risk_id": 11,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "IT Infrastructure",
+      "control_id": 14,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-06-25",
+      "days_since_tested": 414
+    },
+    {
+      "risk_id": 1,
+      "category": "Internal Fraud",
+      "unit_name": "Consumer Lending",
+      "control_id": 1,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-06-26",
+      "days_since_tested": 413
+    },
+    {
+      "risk_id": 3,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Retail Branch Network",
+      "control_id": 4,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-06-27",
+      "days_since_tested": 412
+    },
+    {
+      "risk_id": 7,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Private Client Advisory",
+      "control_id": 8,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-06-29",
+      "days_since_tested": 410
+    },
+    {
+      "risk_id": 14,
+      "category": "External Fraud",
+      "unit_name": "Corporate Lending",
+      "control_id": 18,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-07-13",
+      "days_since_tested": 396
+    },
+    {
+      "risk_id": 13,
+      "category": "External Fraud",
+      "unit_name": "Portfolio Administration",
+      "control_id": 17,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-07-14",
+      "days_since_tested": 395
+    },
+    {
+      "risk_id": 8,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Trade Finance",
+      "control_id": 9,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-07-21",
+      "days_since_tested": 388
+    },
+    {
+      "risk_id": 31,
+      "category": "Internal Fraud",
+      "unit_name": "Consumer Lending",
+      "control_id": 43,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-08-09",
+      "days_since_tested": 369
+    },
+    {
+      "risk_id": 26,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Retail Branch Network",
+      "control_id": 36,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-08-25",
+      "days_since_tested": 353
+    },
+    {
+      "risk_id": 22,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Trade Finance",
+      "control_id": 29,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-08-28",
+      "days_since_tested": 350
+    },
+    {
+      "risk_id": 37,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "Retail Branch Network",
+      "control_id": 52,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-08-30",
+      "days_since_tested": 348
+    },
+    {
+      "risk_id": 35,
+      "category": "Internal Fraud",
+      "unit_name": "Payments Processing",
+      "control_id": 50,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-09-03",
+      "days_since_tested": 344
+    },
+    {
+      "risk_id": 32,
+      "category": "External Fraud",
+      "unit_name": "IT Infrastructure",
+      "control_id": 45,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-09-15",
+      "days_since_tested": 332
+    },
+    {
+      "risk_id": 21,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Portfolio Administration",
+      "control_id": 27,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-09-27",
+      "days_since_tested": 320
+    },
+    {
+      "risk_id": 22,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Trade Finance",
+      "control_id": 28,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-10-03",
+      "days_since_tested": 314
+    },
+    {
+      "risk_id": 35,
+      "category": "Internal Fraud",
+      "unit_name": "Payments Processing",
+      "control_id": 49,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-10-10",
+      "days_since_tested": 307
+    },
+    {
+      "risk_id": 17,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Private Client Advisory",
+      "control_id": 22,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-10-12",
+      "days_since_tested": 305
+    },
+    {
+      "risk_id": 38,
+      "category": "Internal Fraud",
+      "unit_name": "Corporate Lending",
+      "control_id": 53,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-10-19",
+      "days_since_tested": 298
+    },
+    {
+      "risk_id": 19,
+      "category": "Damage to Physical Assets",
+      "unit_name": "Private Client Advisory",
+      "control_id": 25,
+      "effectiveness_rating": "Weak",
+      "last_tested_date": "2025-10-24",
+      "days_since_tested": 293
+    },
+    {
+      "risk_id": 16,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Corporate Lending",
+      "control_id": 20,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-10-25",
+      "days_since_tested": 292
+    },
+    {
+      "risk_id": 39,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Trade Finance",
+      "control_id": 56,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-10-25",
+      "days_since_tested": 292
+    },
+    {
+      "risk_id": 9,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "IT Infrastructure",
+      "control_id": 11,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-11-09",
+      "days_since_tested": 277
+    },
+    {
+      "risk_id": 24,
+      "category": "External Fraud",
+      "unit_name": "Payments Processing",
+      "control_id": 33,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-11-10",
+      "days_since_tested": 276
+    },
+    {
+      "risk_id": 10,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "Private Client Advisory",
+      "control_id": 13,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-11-22",
+      "days_since_tested": 264
+    },
+    {
+      "risk_id": 34,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Consumer Lending",
+      "control_id": 48,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-11-29",
+      "days_since_tested": 257
+    },
+    {
+      "risk_id": 30,
+      "category": "Employment Practices & Workplace Safety",
+      "unit_name": "Payments Processing",
+      "control_id": 41,
+      "effectiveness_rating": "Strong",
+      "last_tested_date": "2025-12-11",
+      "days_since_tested": 245
+    },
+    {
+      "risk_id": 6,
+      "category": "Execution, Delivery & Process Management",
+      "unit_name": "Private Client Advisory",
+      "control_id": 7,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-12-15",
+      "days_since_tested": 241
+    },
+    {
+      "risk_id": 5,
+      "category": "Internal Fraud",
+      "unit_name": "Portfolio Administration",
+      "control_id": 6,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2025-12-18",
+      "days_since_tested": 238
+    },
+    {
+      "risk_id": 40,
+      "category": "Clients, Products & Business Practices",
+      "unit_name": "Consumer Lending",
+      "control_id": 58,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2026-01-02",
+      "days_since_tested": 223
+    },
+    {
+      "risk_id": 9,
+      "category": "Business Disruption & System Failures",
+      "unit_name": "IT Infrastructure",
+      "control_id": 10,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2026-01-29",
+      "days_since_tested": 196
+    },
+    {
+      "risk_id": 25,
+      "category": "Damage to Physical Assets",
+      "unit_name": "IT Infrastructure",
+      "control_id": 34,
+      "effectiveness_rating": "Adequate",
+      "last_tested_date": "2026-01-31",
+      "days_since_tested": 194
+    }
+  ],
+  "metrics": {
+    "expected_annual_loss": "1600373.3744913235",
+    "var_95": "2571368.8498176015",
+    "var_99": "3453258.234303912",
+    "cvar_95": "3150662.053338376",
+    "cvar_99": "4188112.6453994387",
+    "unexpected_loss_95": "970995.475326278"
+  }
+}

@@ -1,0 +1,234 @@
+incident_id,event_date,loss_amount,event_type,root_cause,unit_name,year_month,z_score,is_outlier
+1,2023-01-20,829.64,"Execution, Delivery & Process Management",Technology failure,Consumer Lending,2023-01,-1.3465359660965044,False
+2,2023-01-15,8186.51,Business Disruption & System Failures,Fraudulent activity,Portfolio Administration,2023-01,0.15372890979877527,False
+3,2023-01-15,2341.46,"Execution, Delivery & Process Management",Third-party failure,Trade Finance,2023-01,-0.6665834962214503,False
+4,2023-01-27,2332.82,"Execution, Delivery & Process Management",Technology failure,Trade Finance,2023-01,-0.6690062206688306,False
+5,2023-01-16,295132.84,Employment Practices & Workplace Safety,Fraudulent activity,Portfolio Administration,2023-01,2.50312449288549,True
+6,2023-01-03,9235.16,External Fraud,Inadequate training,Payments Processing,2023-01,0.23271863646915195,False
+7,2023-01-11,16019.25,Damage to Physical Assets,Process gap,Trade Finance,2023-01,0.5936688484266295,False
+8,2023-02-05,6465.2,External Fraud,Data entry error,Portfolio Administration,2023-02,-0.0009693329530483016,False
+9,2023-02-23,25580.85,Business Disruption & System Failures,Third-party failure,Portfolio Administration,2023-02,0.9004081709541052,False
+10,2023-02-03,21808.35,"Clients, Products & Business Practices",Control override,Corporate Lending,2023-02,0.7958460659587488,False
+11,2023-02-18,2283.17,"Clients, Products & Business Practices",Human error,Private Client Advisory,2023-02,-0.6831048097075676,False
+12,2023-02-07,3651.69,"Clients, Products & Business Practices",Documentation error,Corporate Lending,2023-02,-0.3753350478082907,False
+13,2023-03-31,21261.29,"Execution, Delivery & Process Management",Documentation error,Portfolio Administration,2023-03,0.7791969343881435,False
+14,2023-03-13,8316.54,Internal Fraud,Control override,Trade Finance,2023-03,0.1640563536669715,False
+15,2023-03-10,228.14,"Execution, Delivery & Process Management",Data entry error,Private Client Advisory,2023-03,-2.1926164028072628,False
+16,2023-03-18,4710.63,"Clients, Products & Business Practices",Third-party failure,Private Client Advisory,2023-03,-0.2084617752943517,False
+17,2023-03-09,30592.69,"Clients, Products & Business Practices",Human error,Trade Finance,2023-03,1.0176617972017121,False
+18,2023-04-13,16368.15,Business Disruption & System Failures,Data entry error,Private Client Advisory,2023-04,0.6077892222397188,False
+19,2023-04-24,1403.6,"Execution, Delivery & Process Management",Fraudulent activity,Private Client Advisory,2023-04,-1.001949504659019,False
+20,2023-04-30,2935.7,Damage to Physical Assets,Technology failure,Portfolio Administration,2023-04,-0.518361748742334,False
+21,2023-04-01,26112.7,Damage to Physical Assets,Documentation error,Portfolio Administration,2023-04,0.9138938443964982,False
+22,2023-04-22,11410.82,Internal Fraud,Data entry error,IT Infrastructure,2023-04,0.37135444134171086,False
+23,2023-04-05,6501.14,External Fraud,Human error,Consumer Lending,2023-04,0.0026636744958829935,False
+24,2023-05-09,701.37,Employment Practices & Workplace Safety,Third-party failure,Retail Branch Network,2023-05,-1.4566064380945614,False
+25,2023-05-15,7651.87,Employment Practices & Workplace Safety,Data entry error,IT Infrastructure,2023-05,0.10946801042855679,False
+26,2023-05-09,18462.43,Employment Practices & Workplace Safety,Process gap,Portfolio Administration,2023-05,0.6866938984756529,False
+27,2023-05-16,4029.46,Business Disruption & System Failures,Technology failure,Private Client Advisory,2023-05,-0.3108207083015102,False
+28,2023-05-02,16067.36,External Fraud,Process gap,Private Client Advisory,2023-05,0.5956340918673503,False
+29,2023-05-25,1267.92,"Execution, Delivery & Process Management",Human error,Trade Finance,2023-05,-1.0685742765156516,False
+30,2023-05-31,435.39,External Fraud,Human error,Trade Finance,2023-05,-1.7690738523825804,False
+31,2023-05-20,6922.62,External Fraud,System outage,Portfolio Administration,2023-05,0.04383075577342157,False
+32,2023-05-16,669.69,Damage to Physical Assets,Third-party failure,Retail Branch Network,2023-05,-1.4868972230869655,False
+33,2023-05-15,27802.52,"Execution, Delivery & Process Management",Control override,IT Infrastructure,2023-05,0.9549876006509198,False
+34,2023-05-06,26531.38,"Execution, Delivery & Process Management",System outage,Consumer Lending,2023-05,0.9243181309334265,False
+35,2023-06-10,5447.15,Damage to Physical Assets,Human error,Portfolio Administration,2023-06,-0.11325823960338119,False
+36,2023-06-30,876.21,Damage to Physical Assets,Data entry error,Corporate Lending,2023-06,-1.3107446362757187,False
+37,2023-06-13,26287.05,Internal Fraud,Documentation error,Portfolio Administration,2023-06,0.9182549725437302,False
+38,2023-06-23,1797.75,Internal Fraud,Inadequate training,Portfolio Administration,2023-06,-0.8397528651265639,False
+39,2023-06-28,1429.51,"Execution, Delivery & Process Management",Documentation error,Retail Branch Network,2023-06,-0.9899622262229922,False
+40,2023-06-26,70128.37,Employment Practices & Workplace Safety,Technology failure,Consumer Lending,2023-06,1.5613196041859685,False
+41,2023-07-14,6758.09,Internal Fraud,Technology failure,Portfolio Administration,2023-07,0.028066919743589516,False
+42,2023-07-21,1881.18,Internal Fraud,Data entry error,IT Infrastructure,2023-07,-0.8100239066517675,False
+43,2023-08-27,1304.54,Internal Fraud,Data entry error,Trade Finance,2023-08,-1.0499146237893597,False
+44,2023-08-31,2005.62,Business Disruption & System Failures,Fraudulent activity,Trade Finance,2023-08,-0.7680460006230351,False
+45,2023-08-23,37959.07,"Clients, Products & Business Practices",System outage,IT Infrastructure,2023-08,1.1590522379797727,False
+46,2023-08-24,1907.38,Damage to Physical Assets,Technology failure,Portfolio Administration,2023-08,-0.8009595172588275,False
+47,2023-08-25,18410.31,"Clients, Products & Business Practices",Data entry error,Portfolio Administration,2023-08,0.6848412040538275,False
+48,2023-08-27,18062.9,Employment Practices & Workplace Safety,Third-party failure,Private Client Advisory,2023-08,0.6723562780887193,False
+49,2023-08-27,3185.41,Employment Practices & Workplace Safety,Fraudulent activity,Portfolio Administration,2023-08,-0.46486204782926926,False
+50,2023-08-08,1842.81,Damage to Physical Assets,Documentation error,Private Client Advisory,2023-08,-0.8235291735370202,False
+51,2023-08-22,1327.23,Employment Practices & Workplace Safety,Human error,Private Client Advisory,2023-08,-1.0386140151827288,False
+52,2023-08-16,139779.25,External Fraud,Fraudulent activity,Consumer Lending,2023-08,2.0133399879029876,False
+53,2023-09-07,31162.38,"Execution, Delivery & Process Management",Inadequate training,Retail Branch Network,2023-09,1.0297533703242108,False
+54,2023-09-11,2289.73,Damage to Physical Assets,Inadequate training,Portfolio Administration,2023-09,-0.6812245538875016,False
+55,2023-09-18,1556.96,Damage to Physical Assets,Third-party failure,Portfolio Administration,2023-09,-0.9339929037689108,False
+56,2023-09-03,3492.89,Business Disruption & System Failures,Data entry error,IT Infrastructure,2023-09,-0.4044723833869299,False
+57,2023-09-16,4129.8,Business Disruption & System Failures,Fraudulent activity,Private Client Advisory,2023-09,-0.29470127655663025,False
+58,2023-09-21,9346.33,"Clients, Products & Business Practices",Human error,Private Client Advisory,2023-09,0.24056045449916313,False
+59,2023-09-03,5494.18,External Fraud,Data entry error,Trade Finance,2023-09,-0.10762430183876019,False
+60,2023-09-23,23708.93,Employment Practices & Workplace Safety,Documentation error,Portfolio Administration,2023-09,0.8506065084518325,False
+61,2023-09-12,50102.68,Damage to Physical Assets,Technology failure,Corporate Lending,2023-09,1.3409556394307456,False
+62,2023-09-12,22807.24,Business Disruption & System Failures,Technology failure,Retail Branch Network,2023-09,0.8251960665278444,False
+63,2023-09-11,163355.6,Business Disruption & System Failures,Fraudulent activity,IT Infrastructure,2023-09,2.115486417912432,False
+64,2023-09-09,1348.47,Employment Practices & Workplace Safety,Third-party failure,Private Client Advisory,2023-09,-1.0282092873386928,False
+65,2023-09-04,230.37,Employment Practices & Workplace Safety,Process gap,Private Client Advisory,2023-09,-2.186241640675096,False
+66,2023-10-24,8777.64,External Fraud,Third-party failure,Consumer Lending,2023-10,0.1994199742659413,False
+67,2023-10-24,32438.59,Employment Practices & Workplace Safety,Documentation error,Portfolio Administration,2023-10,1.0560573349014566,False
+68,2023-10-25,2319.99,Internal Fraud,Third-party failure,Private Client Advisory,2023-10,-0.672620460331885,False
+69,2023-10-10,4091.78,Employment Practices & Workplace Safety,System outage,IT Infrastructure,2023-10,-0.3007625577206501,False
+70,2023-10-10,35614.43,Business Disruption & System Failures,Technology failure,Portfolio Administration,2023-10,1.1172685908220346,False
+71,2023-10-05,2392.02,Internal Fraud,Human error,Portfolio Administration,2023-10,-0.652582867308766,False
+72,2023-10-18,13313.85,Business Disruption & System Failures,System outage,Portfolio Administration,2023-10,0.472437754042727,False
+73,2023-10-21,890.52,Internal Fraud,Human error,Portfolio Administration,2023-10,-1.3001280851274546,False
+74,2023-10-19,3913.52,"Clients, Products & Business Practices",Fraudulent activity,Corporate Lending,2023-10,-0.3299538012805887,False
+75,2023-10-15,13802.45,External Fraud,Human error,Retail Branch Network,2023-10,0.4960574633914935,False
+76,2023-11-09,43906.19,Internal Fraud,Process gap,Consumer Lending,2023-11,1.2544366241534997,False
+77,2023-11-13,3133.12,Internal Fraud,Documentation error,Retail Branch Network,2023-11,-0.4757092319870189,False
+78,2023-11-21,342.58,External Fraud,System outage,Portfolio Administration,2023-11,-1.9261859158202963,False
+79,2023-11-26,16249.04,Internal Fraud,Third-party failure,Corporate Lending,2023-11,0.6030028318219038,False
+80,2023-11-04,3086.81,Damage to Physical Assets,Documentation error,Consumer Lending,2023-11,-0.4854681533329891,False
+81,2023-12-26,2756.52,"Execution, Delivery & Process Management",Technology failure,Consumer Lending,2023-12,-0.5596337823499148,False
+82,2024-01-13,3355.68,"Clients, Products & Business Practices",Inadequate training,Private Client Advisory,2024-01,-0.43073563484830363,False
+83,2024-01-28,9176.54,Employment Practices & Workplace Safety,Documentation error,Private Client Advisory,2024-01,0.22854554503495625,False
+84,2024-01-20,4290.45,Damage to Physical Assets,Process gap,Retail Branch Network,2024-01,-0.26969131889688075,False
+85,2024-02-25,6448.27,Business Disruption & System Failures,Third-party failure,Private Client Advisory,2024-02,-0.002687711166001284,False
+86,2024-02-09,5670.49,External Fraud,Third-party failure,Portfolio Administration,2024-02,-0.08692423877240081,False
+87,2024-02-06,19807.18,External Fraud,Human error,Private Client Advisory,2024-02,0.7327694845075334,False
+88,2024-02-14,2917.15,Business Disruption & System Failures,Documentation error,Retail Branch Network,2024-02,-0.522515901695398,False
+89,2024-02-16,461.4,Internal Fraud,Third-party failure,IT Infrastructure,2024-02,-1.7310482655878463,False
+90,2024-02-10,30638.31,Business Disruption & System Failures,Fraudulent activity,Consumer Lending,2024-02,1.0186383337854588,False
+91,2024-03-03,38528.75,Employment Practices & Workplace Safety,Documentation error,Consumer Lending,2024-03,1.168814517285521,False
+92,2024-03-22,2412.89,"Clients, Products & Business Practices",Process gap,Private Client Advisory,2024-03,-0.646889824735669,False
+93,2024-03-18,7334.84,Business Disruption & System Failures,System outage,Retail Branch Network,2024-03,0.08173714904788827,False
+94,2024-03-30,793.45,"Execution, Delivery & Process Management",System outage,Consumer Lending,2024-03,-1.375765539423872,False
+95,2024-03-03,5373.1,External Fraud,Inadequate training,IT Infrastructure,2024-03,-0.12222837620328984,False
+96,2024-04-20,28302.53,"Clients, Products & Business Practices",Process gap,Retail Branch Network,2024-04,0.9666689427637676,False
+97,2024-04-15,94686.79,Business Disruption & System Failures,Data entry error,Portfolio Administration,2024-04,1.7580870743822636,False
+98,2024-04-09,29807.16,"Clients, Products & Business Practices",Process gap,Private Client Advisory,2024-04,1.000614485106409,False
+99,2024-04-20,1662.19,"Clients, Products & Business Practices",Control override,Trade Finance,2024-04,-0.8911323649651236,False
+100,2024-04-20,6240.77,Internal Fraud,Process gap,Portfolio Administration,2024-04,-0.024123158909258504,False
+101,2024-04-08,516.97,"Execution, Delivery & Process Management",Inadequate training,Retail Branch Network,2024-04,-1.6565219837427283,False
+102,2024-05-19,1415.86,"Execution, Delivery & Process Management",System outage,Private Client Advisory,2024-05,-0.9962500700065537,False
+103,2024-05-16,871.57,Employment Practices & Workplace Safety,System outage,Private Client Advisory,2024-05,-1.3142242957420283,False
+104,2024-05-19,13167.37,Business Disruption & System Failures,Fraudulent activity,Private Client Advisory,2024-05,0.4651875658427433,False
+105,2024-05-03,674.25,Employment Practices & Workplace Safety,Data entry error,Retail Branch Network,2024-05,-1.4824499772438264,False
+106,2024-05-11,1331.3,Business Disruption & System Failures,Process gap,Corporate Lending,2024-05,-1.0366074295803398,False
+107,2024-06-28,2072.24,Employment Practices & Workplace Safety,Data entry error,Trade Finance,2024-06,-0.7466311293919308,False
+108,2024-06-23,1414.76,Employment Practices & Workplace Safety,Data entry error,Trade Finance,2024-06,-0.9967594192258612,False
+109,2024-06-27,65699.95,"Clients, Products & Business Practices",Process gap,Trade Finance,2024-06,1.5185714927113352,False
+110,2024-06-11,60644.94,Employment Practices & Workplace Safety,Process gap,Portfolio Administration,2024-06,1.466102739778072,False
+111,2024-07-25,1802.36,"Execution, Delivery & Process Management",Technology failure,Portfolio Administration,2024-07,-0.8380744866527609,False
+112,2024-07-27,89314.37,Business Disruption & System Failures,Technology failure,Private Client Advisory,2024-07,1.7198065953457349,False
+113,2024-07-15,4362.96,Internal Fraud,Third-party failure,Portfolio Administration,2024-07,-0.2587082098018828,False
+114,2024-07-17,13267.54,Damage to Physical Assets,Fraudulent activity,IT Infrastructure,2024-07,0.47015424864945415,False
+115,2024-08-21,29926.84,"Execution, Delivery & Process Management",Human error,Retail Branch Network,2024-08,1.003240547695269,False
+116,2024-08-07,4321.4,Damage to Physical Assets,System outage,Retail Branch Network,2024-08,-0.2649807802079252,False
+117,2024-08-30,518.92,"Clients, Products & Business Practices",Fraudulent activity,Retail Branch Network,2024-08,-1.6540546608264575,False
+118,2024-08-04,10956.12,Business Disruption & System Failures,Documentation error,Private Client Advisory,2024-08,0.3447053301898255,False
+119,2024-08-26,9510.13,Business Disruption & System Failures,System outage,Trade Finance,2024-08,0.2519464017123058,False
+120,2024-08-10,224.19,Damage to Physical Assets,Data entry error,Portfolio Administration,2024-08,-2.2040624953158106,False
+121,2024-08-03,2148.1,"Execution, Delivery & Process Management",Process gap,Private Client Advisory,2024-08,-0.7230688833659922,False
+122,2024-08-15,46861.7,Business Disruption & System Failures,System outage,Corporate Lending,2024-08,1.2971297797929724,False
+123,2024-08-16,58735.57,Damage to Physical Assets,Inadequate training,Payments Processing,2024-08,1.445137578409386,False
+124,2024-08-14,994.89,"Clients, Products & Business Practices",Third-party failure,Retail Branch Network,2024-08,-1.2274976597581124,False
+125,2024-09-15,6414.55,"Clients, Products & Business Practices",Third-party failure,Portfolio Administration,2024-09,-0.006123740614479924,False
+126,2024-09-30,10806.7,"Execution, Delivery & Process Management",Process gap,Corporate Lending,2024-09,0.33570610964862385,False
+127,2024-09-09,47705.73,Employment Practices & Workplace Safety,Technology failure,Private Client Advisory,2024-09,1.3088283379277306,False
+128,2024-09-09,1972.0,Employment Practices & Workplace Safety,Inadequate training,Portfolio Administration,2024-09,-0.7791247125457151,False
+129,2024-09-27,11726.41,"Execution, Delivery & Process Management",System outage,Retail Branch Network,2024-09,0.3892334450157798,False
+130,2024-10-15,27827.37,Employment Practices & Workplace Safety,Control override,Retail Branch Network,2024-10,0.9555730950292008,False
+131,2024-10-18,21868.33,"Clients, Products & Business Practices",Control override,Private Client Advisory,2024-10,0.7976460208620092,False
+132,2024-10-28,9649.83,Business Disruption & System Failures,Third-party failure,Private Client Advisory,2024-10,0.2615032350626962,False
+133,2024-10-19,24677.16,External Fraud,Data entry error,Trade Finance,2024-10,0.8768378493493478,False
+134,2024-10-02,56994.05,Business Disruption & System Failures,Fraudulent activity,Corporate Lending,2024-10,1.4254123866992503,False
+135,2024-10-23,6672.56,"Clients, Products & Business Practices",System outage,Portfolio Administration,2024-10,0.01971989270848354,False
+136,2024-10-16,5293.84,External Fraud,Technology failure,Portfolio Administration,2024-10,-0.13196765318755307,False
+137,2024-10-31,12999.09,"Execution, Delivery & Process Management",Process gap,Retail Branch Network,2024-10,0.45675813935350074,False
+138,2024-10-28,6624.79,Internal Fraud,Technology failure,IT Infrastructure,2024-10,0.015011241533972859,False
+139,2024-10-30,8842.84,Internal Fraud,System outage,Corporate Lending,2024-10,0.20426991410762105,False
+140,2024-11-14,2119.03,Internal Fraud,Fraudulent activity,Retail Branch Network,2024-11,-0.7319982444494997,False
+141,2024-11-26,686.91,Employment Practices & Workplace Safety,Documentation error,Private Client Advisory,2024-11,-1.470258914685835,False
+142,2024-11-23,3698.25,Business Disruption & System Failures,Process gap,Private Client Advisory,2024-11,-0.3670319625783701,False
+143,2024-11-28,13909.42,"Execution, Delivery & Process Management",Technology failure,Portfolio Administration,2024-11,0.5011169078018403,False
+144,2024-11-13,4193.62,Business Disruption & System Failures,Fraudulent activity,Portfolio Administration,2024-11,-0.284651231473643,False
+145,2024-11-28,663.51,Damage to Physical Assets,Process gap,Private Client Advisory,2024-11,-1.4929729855927816,False
+146,2024-11-08,49514.63,External Fraud,Process gap,Trade Finance,2024-11,1.3332183472463546,False
+147,2024-11-14,8504.58,"Execution, Delivery & Process Management",Process gap,Portfolio Administration,2024-11,0.17870906297438902,False
+148,2024-11-15,10206.76,Business Disruption & System Failures,Inadequate training,Private Client Advisory,2024-11,0.29827499138570723,False
+149,2024-12-29,229404.49,Internal Fraud,Control override,Corporate Lending,2024-12,2.338015951860238,False
+150,2024-12-26,4740.2,Employment Practices & Workplace Safety,Control override,Private Client Advisory,2024-12,-0.20436079861899537,False
+151,2025-01-12,5903.22,External Fraud,Third-party failure,Retail Branch Network,2025-01,-0.06056439522457658,False
+152,2025-01-17,22476.66,Damage to Physical Assets,System outage,Private Client Advisory,2025-01,0.8156275419571997,False
+153,2025-01-06,943.39,Internal Fraud,Documentation error,Trade Finance,2025-01,-1.262331186971451,False
+154,2025-01-28,2107.22,Damage to Physical Assets,Third-party failure,Portfolio Administration,2025-01,-0.7356609360542347,False
+155,2025-01-16,13116.53,External Fraud,Fraudulent activity,Corporate Lending,2025-01,0.4626523158741169,False
+156,2025-01-21,956.74,"Clients, Products & Business Practices",Inadequate training,Corporate Lending,2025-01,-1.2531222477707937,False
+157,2025-01-22,2268.56,"Execution, Delivery & Process Management",Fraudulent activity,Private Client Advisory,2025-01,-0.6873118795654461,False
+158,2025-01-29,60984.73,Business Disruption & System Failures,Technology failure,Trade Finance,2025-01,1.4697643887138552,False
+159,2025-01-06,360.42,"Clients, Products & Business Practices",Control override,Private Client Advisory,2025-01,-1.8929171042821005,False
+160,2025-01-19,1965.63,Business Disruption & System Failures,Data entry error,Retail Branch Network,2025-01,-0.7812450716275559,False
+161,2025-01-23,4717.87,"Clients, Products & Business Practices",Inadequate training,Trade Finance,2025-01,-0.20745530594202877,False
+162,2025-02-07,32092.14,"Execution, Delivery & Process Management",Fraudulent activity,Trade Finance,2025-02,1.0490204140057784,False
+163,2025-02-04,5557.56,"Clients, Products & Business Practices",Documentation error,Portfolio Administration,2025-02,-0.10010753904506463,False
+164,2025-02-12,630.94,Business Disruption & System Failures,Inadequate training,IT Infrastructure,2025-02,-1.5259589101718278,False
+165,2025-02-01,3985.96,Employment Practices & Workplace Safety,Human error,Consumer Lending,2025-02,-0.31793401846165525,False
+166,2025-02-19,938.3,Damage to Physical Assets,Fraudulent activity,Consumer Lending,2025-02,-1.26587666887793,False
+167,2025-02-27,6142.26,"Execution, Delivery & Process Management",Third-party failure,Consumer Lending,2025-02,-0.034550343564123,False
+168,2025-03-20,10138.1,External Fraud,Third-party failure,Trade Finance,2025-03,0.2938516011909347,False
+169,2025-03-20,3622.46,Business Disruption & System Failures,System outage,Portfolio Administration,2025-03,-0.38060192763454437,False
+170,2025-03-21,6959.71,Business Disruption & System Failures,Human error,Corporate Lending,2025-03,0.047332625707142764,False
+171,2025-03-10,28820.48,Internal Fraud,Documentation error,Private Client Advisory,2025-03,0.9785537779819986,False
+172,2025-03-12,32834.94,Internal Fraud,Inadequate training,Portfolio Administration,2025-03,1.0640162085282159,False
+173,2025-03-11,4435.42,External Fraud,Third-party failure,IT Infrastructure,2025-03,-0.2479135255827239,False
+174,2025-03-05,8316.69,Damage to Physical Assets,Technology failure,Retail Branch Network,2025-03,0.16406817371319454,False
+175,2025-03-30,32963.39,"Execution, Delivery & Process Management",System outage,IT Infrastructure,2025-03,1.0665749375668812,False
+176,2025-04-09,689.4,"Execution, Delivery & Process Management",Inadequate training,Portfolio Administration,2025-04,-1.4678876061518835,False
+177,2025-04-24,16552.39,"Execution, Delivery & Process Management",Process gap,IT Infrastructure,2025-04,0.6151246596783791,False
+178,2025-04-15,7707.17,External Fraud,Third-party failure,Retail Branch Network,2025-04,0.1141872002368092,False
+179,2025-04-28,4656.88,"Execution, Delivery & Process Management",Technology failure,Private Client Advisory,2025-04,-0.21598256730245954,False
+180,2025-05-12,1074.32,"Execution, Delivery & Process Management",Data entry error,Retail Branch Network,2025-05,-1.177159428128197,False
+181,2025-05-01,7032.25,Damage to Physical Assets,Process gap,Private Client Advisory,2025-05,0.054127906325329246,False
+182,2025-05-15,43591.82,Business Disruption & System Failures,Inadequate training,Private Client Advisory,2025-05,1.2497274007168795,False
+183,2025-05-19,16243.76,"Execution, Delivery & Process Management",Control override,Private Client Advisory,2025-05,0.602789845704029,False
+184,2025-05-04,1601.46,"Clients, Products & Business Practices",Human error,Private Client Advisory,2025-05,-0.9155247544091506,False
+185,2025-05-20,1291.35,Damage to Physical Assets,Third-party failure,Portfolio Administration,2025-05,-1.0565745091931809,False
+186,2025-05-21,152091.65,Business Disruption & System Failures,Fraudulent activity,IT Infrastructure,2025-05,2.0686640727879926,False
+187,2025-05-30,1358.48,Business Disruption & System Failures,Data entry error,Payments Processing,2025-05,-1.0233624289421817,False
+188,2025-05-04,67682.77,Internal Fraud,Human error,Trade Finance,2025-05,1.5380573817117584,False
+189,2025-06-10,844.51,Internal Fraud,Process gap,Private Client Advisory,2025-06,-1.3348938337704506,False
+190,2025-06-08,1574.86,"Clients, Products & Business Practices",Fraudulent activity,Corporate Lending,2025-06,-0.9265014608352963,False
+191,2025-06-12,71404.47,Damage to Physical Assets,System outage,Portfolio Administration,2025-06,1.5731375981789821,False
+192,2025-06-29,9608.76,Business Disruption & System Failures,Process gap,Portfolio Administration,2025-06,0.2587080833670945,False
+193,2025-06-27,1007.16,Damage to Physical Assets,Data entry error,Trade Finance,2025-06,-1.2194646260464133,False
+194,2025-06-09,13454.4,Business Disruption & System Failures,Control override,Consumer Lending,2025-06,0.47931982854888056,False
+195,2025-06-07,5543.05,"Clients, Products & Business Practices",Third-party failure,Consumer Lending,2025-06,-0.10182080712560478,False
+196,2025-07-28,35006.19,Internal Fraud,Control override,Private Client Advisory,2025-07,1.105979506962733,False
+197,2025-07-18,5602.27,Internal Fraud,Data entry error,Portfolio Administration,2025-07,-0.09485639510205207,False
+198,2025-07-09,4195.54,Internal Fraud,Fraudulent activity,Private Client Advisory,2025-07,-0.2843512549502242,False
+199,2025-07-03,3428.11,Business Disruption & System Failures,Documentation error,Payments Processing,2025-07,-0.4167408217740012,False
+200,2025-07-01,6742.1,"Execution, Delivery & Process Management",Control override,IT Infrastructure,2025-07,0.026514485210602137,False
+201,2025-07-08,4390.52,"Execution, Delivery & Process Management",Documentation error,Retail Branch Network,2025-07,-0.25458149540437375,False
+202,2025-08-07,10704.32,"Execution, Delivery & Process Management",Technology failure,Trade Finance,2025-08,0.329467872090004,False
+203,2025-08-07,1994.53,"Execution, Delivery & Process Management",Third-party failure,Private Client Advisory,2025-08,-0.7716797995345175,False
+204,2025-08-11,2546.59,"Execution, Delivery & Process Management",Documentation error,Corporate Lending,2025-08,-0.6115466941730605,False
+205,2025-08-01,422.05,"Execution, Delivery & Process Management",System outage,Corporate Lending,2025-08,-1.7894673465264592,False
+206,2025-08-05,21160.6,"Execution, Delivery & Process Management",System outage,Portfolio Administration,2025-08,0.7760859226365331,False
+207,2025-08-04,4795.84,External Fraud,Human error,Trade Finance,2025-08,-0.19671313998304904,False
+208,2025-09-12,12417.55,Damage to Physical Assets,Control override,Trade Finance,2025-09,0.4267636297471739,False
+209,2025-09-01,1865.0,Employment Practices & Workplace Safety,Human error,Portfolio Administration,2025-09,-0.8156849578882044,False
+210,2025-09-05,91273.48,Damage to Physical Assets,Process gap,Portfolio Administration,2025-09,1.734026341411939,False
+211,2025-09-24,14540.33,"Clients, Products & Business Practices",Fraudulent activity,Portfolio Administration,2025-09,0.530188222617007,False
+212,2025-09-25,2251.48,Damage to Physical Assets,Documentation error,Portfolio Administration,2025-09,-0.6922646952238334,False
+213,2025-09-04,569.41,Damage to Physical Assets,Third-party failure,IT Infrastructure,2025-09,-1.593204583079974,False
+214,2025-10-31,1038.38,Business Disruption & System Failures,Technology failure,Portfolio Administration,2025-10,-1.1994584928287433,False
+215,2025-10-10,1755.26,Business Disruption & System Failures,Human error,Portfolio Administration,2025-10,-0.855428152619379,False
+216,2025-10-02,21688.65,"Execution, Delivery & Process Management",Data entry error,Corporate Lending,2025-10,0.7922391132284855,False
+217,2025-10-14,2740.99,"Clients, Products & Business Practices",Fraudulent activity,Private Client Advisory,2025-10,-0.5633364189662566,False
+218,2025-10-03,1283.4,Employment Practices & Workplace Safety,Documentation error,Portfolio Administration,2025-10,-1.0606215534222747,False
+219,2025-10-05,19472.48,External Fraud,Inadequate training,Retail Branch Network,2025-10,0.7216007745617157,False
+220,2025-10-20,1933.48,"Clients, Products & Business Practices",Documentation error,Private Client Advisory,2025-10,-0.7920526860206328,False
+221,2025-10-17,3301.37,"Clients, Products & Business Practices",Technology failure,IT Infrastructure,2025-10,-0.44142894412994454,False
+222,2025-10-20,64328.17,Internal Fraud,Process gap,Private Client Advisory,2025-10,1.5047432241607,False
+223,2025-11-28,194980.75,"Clients, Products & Business Practices",Fraudulent activity,Retail Branch Network,2025-11,2.231464958370553,False
+224,2025-11-29,27465.69,"Clients, Products & Business Practices",Control override,Trade Finance,2025-11,0.9469994682985087,False
+225,2025-11-27,38590.91,"Clients, Products & Business Practices",Data entry error,Corporate Lending,2025-11,1.1698709710679116,False
+226,2025-11-24,2498.64,Employment Practices & Workplace Safety,Data entry error,Payments Processing,2025-11,-0.6240040315767683,False
+227,2025-11-11,77896.96,Employment Practices & Workplace Safety,System outage,Consumer Lending,2025-11,1.6301705444645036,False
+228,2025-11-22,2593.03,Internal Fraud,Process gap,Consumer Lending,2025-11,-0.5997032633174987,False
+229,2025-12-27,57952.32,Internal Fraud,Data entry error,Private Client Advisory,2025-12,1.4363395441647762,False
+230,2025-12-04,121752.87,"Execution, Delivery & Process Management",System outage,Portfolio Administration,2025-12,1.9228548681681281,False
+231,2025-12-18,5661.54,Damage to Physical Assets,Technology failure,Private Client Advisory,2025-12,-0.08795942841655237,False
+232,2025-12-18,52263.22,Business Disruption & System Failures,Process gap,Retail Branch Network,2025-12,1.3686235275589353,False
+233,2025-12-14,96653.65,"Execution, Delivery & Process Management",Data entry error,Retail Branch Network,2025-12,1.7715607623643925,False
