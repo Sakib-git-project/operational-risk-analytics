@@ -87,3 +87,17 @@ Operational_Risk_Register.docx      # Final governance document
 ## Methodology Notes
 
 Risk categories follow the Basel II operational risk event-type taxonomy. Risk scoring uses a standard 1-5 likelihood/impact scale, tracked both before controls (inherent) and after (residual). The quantitative model exists specifically to validate register ratings against reality — risks with high realized losses but low assigned ratings are flagged for re-assessment, rather than trusting the register's initial scoring alone.
+
+
+## How to Run
+
+```bash
+   pip install -r requirements.txt
+
+   python 01_generate_data.py
+   python run_queries.py
+   python risk_model.py
+
+   npm install
+   node build_register.js
+```
