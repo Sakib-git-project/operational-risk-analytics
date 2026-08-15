@@ -51,7 +51,7 @@ An interactive report built in Power BI Service, connected directly to the SQL a
 - Detail table of incidents tied to weak controls
 
 `dashboard_data.xlsx` (consolidated data source for the report)
-
+![Dashboard screenshot](docs/dashboard_screenshot.png)
 ## Phase 4 — Risk Register (Governance)
 
 A formal Word document tying the quantitative model back to governance: for each of the 40 risks, inherent risk → controls → residual risk, cross-checked against the Monte Carlo output and realized losses.
