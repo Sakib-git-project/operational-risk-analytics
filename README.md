@@ -69,7 +69,7 @@ A formal Word document tying the quantitative model back to governance: for each
 
 ```
 schema.sql                          # Database schema
-01_generate_data.py                    # Synthetic data generator
+01_generate_data.py                 # Synthetic data generator
 queries.sql                         # SQL analysis queries
 run_queries.py                      # Runs all queries, prints results
 op_risk.db                          # Built SQLite database
