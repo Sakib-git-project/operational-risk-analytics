@@ -16,7 +16,7 @@ A relational SQLite database (`op_risk.db`) with four tables: `business_units`, 
 
 - **8** business units · **40** registered risks · **58** controls · **233** incidents · **$4.5M** total historical loss
 
-`schema.sql` · `generate_data.py` · `queries.sql` (7 tested analysis queries covering loss trends, control failures, overdue testing, and outlier detection)
+`schema.sql` · `01_generate_data.py` · `queries.sql` (7 tested analysis queries covering loss trends, control failures, overdue testing, and outlier detection)
 
 ## Phase 2 — Python Quantitative Model
 
@@ -69,7 +69,7 @@ A formal Word document tying the quantitative model back to governance: for each
 
 ```
 schema.sql                          # Database schema
-generate_data.py                    # Synthetic data generator
+01_generate_data.py                    # Synthetic data generator
 queries.sql                         # SQL analysis queries
 run_queries.py                      # Runs all queries, prints results
 op_risk.db                          # Built SQLite database
