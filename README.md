@@ -12,9 +12,9 @@ SQL (data foundation) → Python (quantitative model) → Power BI (reporting) �
 
 ## Phase 1 — SQL Data Layer
 
-Incident frequency is generated as a function of each control's effectiveness score, so weaker controls produce statistically more incidents, this causal link is what the quantitative model later validates.
-
 A relational SQLite database (`op_risk.db`) with four tables: `business_units`, `risk_register`, `controls`, and `incidents`, linked by foreign keys. Synthetic but realistic data was generated with proper statistical structure — loss severity follows a lognormal distribution (many small losses, a few large ones) and incident frequency correlates with control effectiveness (weak controls produce more incidents).
+
+Incident frequency is generated as a function of each control's effectiveness score, so weaker controls produce statistically more incidents, this causal link is what the quantitative model later validates.
 
 - **8** business units · **40** registered risks · **58** controls · **233** incidents · **$4.5M** total historical loss
 
